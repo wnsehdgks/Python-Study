@@ -1,1 +1,1 @@
-Python-Study
+"Life is too short, You need Python"
